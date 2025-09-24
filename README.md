@@ -33,14 +33,14 @@ BlockChat is a **distributed blockchain-based messaging and transaction platform
 ## 📊 Experimental Results
 
 ### Performance Metrics
-**Setup**: 5 nodes, staking = 10 BCC, variable block capacities
+**Setup**: for 5/10 nodes, staking = 10 BCC and block capacities of 5/10/20 we have :
 
 ![results](image.png)
 
 ### Key Findings
 - **Higher block capacity** → **Increased throughput** but longer block times
 - **More nodes** → **Better throughput** with increased latency
-- **Fairness**: Nodes with higher stakes mine proportionally more blocks
+- **Fairness** → Nodes with higher stakes mine proportionally more blocks
 
 ## 🛠️ Technical Skills Demonstrated
 - Distributed Systems Design
