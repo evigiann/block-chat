@@ -11,7 +11,7 @@ BlockChat is a **distributed blockchain-based messaging and transaction platform
 - **Consensus**: Proof-of-Stake (PoS)
 - **Network**: Custom TCP/IP communication between nodes
 - **Cryptography**: RSA for wallet key generation and transaction signing
-- **Infrastructure**: 5-node cluster on Okeanos cloud VMs
+- **Infrastructure**: 5-node or 10-node cluster on Okeanos cloud VMs
 
 ## 💡 Key Features
 
